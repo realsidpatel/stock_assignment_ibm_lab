@@ -1,1 +1,3 @@
-# stock_assignment_ibm_lab
+This is an assignment done in IBM lab.
+It is a practice assignmen.
+Thanks
